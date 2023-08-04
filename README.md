@@ -1,1 +1,1 @@
-# Automatizacio-de-Software
+# Automatización-de-Pruebas
